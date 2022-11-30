@@ -1,0 +1,36 @@
+div{
+
+    background-color: rgb(106, 223, 110);
+    height: 70px;
+    width: 100%; text-align: center;
+    align-items: center;
+    font-size: 23px;
+    float: right;
+    overflow: hidden;
+    float: left;
+ 
+    
+   
+   
+
+}
+
+    .a1{
+    float: left;
+    margin-top: 15px;
+    margin-right: 40px;
+    margin-bottom: 90px;
+    padding-top: 0px;
+    text-decoration: none;
+    overflow: hiddensss;
+    text-align: center;
+    padding: 0px 0px 70px;
+    height: inherit;
+    font-size: 25px;
+}
+
+img{
+width: 100%;
+image-resolution: 3px;
+shape-image-threshold: calc(34,55,34);
+}
